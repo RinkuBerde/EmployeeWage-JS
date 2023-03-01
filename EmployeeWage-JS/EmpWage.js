@@ -1,0 +1,1 @@
+console.log("Welcome To Employee wage Program Using JavaScript");
