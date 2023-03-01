@@ -22,4 +22,5 @@ function getWorkingHours(empCheck) {
     empHrs = getWorkingHours(empCheck);
     let empWage = empHrs * WAGE_PER_HOUR;
     console.log("Emp - Hour: " + empHrs + " Emp Wage: " + empWage);
+    
 }
